@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ishtdubey
+- 🌱 I’m currently learning DSA in C
+- 💞️ I’m looking to collaborate on AI ML
+- 📫 How to reach me: Gmail: dubeyisht24@gmail.com, LinkedIn: https://www.linkedin.com/in/isht-dubey-9a79522a9?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BzIkNYKaRShW4KEJDK6VBMA%3D%3D
